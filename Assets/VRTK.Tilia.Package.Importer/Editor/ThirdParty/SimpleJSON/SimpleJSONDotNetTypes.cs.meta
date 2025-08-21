@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 315250c24820312438a1726f3ac38373
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214936
+  packageName: VRTK v4 Tilia Package Importer
+  packageVersion: 1.3
+  assetPath: Assets/VRTK.Tilia.Package.Importer/Editor/ThirdParty/SimpleJSON/SimpleJSONDotNetTypes.cs
+  uploadId: 494518

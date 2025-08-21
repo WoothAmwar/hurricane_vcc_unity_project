@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b30d274ada5bb14b977ba5115c8217a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214936
+  packageName: VRTK v4 Tilia Package Importer
+  packageVersion: 1.3
+  assetPath: Assets/VRTK.Tilia.Package.Importer/README.md
+  uploadId: 494518

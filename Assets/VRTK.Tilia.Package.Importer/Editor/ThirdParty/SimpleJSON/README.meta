@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08fc4710ddfe092409c3e6a582722de6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214936
+  packageName: VRTK v4 Tilia Package Importer
+  packageVersion: 1.3
+  assetPath: Assets/VRTK.Tilia.Package.Importer/Editor/ThirdParty/SimpleJSON/README
+  uploadId: 494518

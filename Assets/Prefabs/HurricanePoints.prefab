@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7973297880667746091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2368985325062722528}
+  - component: {fileID: 5964390103553737334}
+  m_Layer: 0
+  m_Name: HurricanePoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2368985325062722528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7973297880667746091}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5964390103553737334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7973297880667746091}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611f9f20f25667f40948290b218753b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dta_point_file_match: 
+  z_pointTextFiles:
+  - {fileID: 4900000, guid: c6700f22f7dedd0448f636d205e808e1, type: 3}
+  - {fileID: 4900000, guid: f6200761586162c49b5a4e2df1bb67e3, type: 3}
+  - {fileID: 4900000, guid: 4377b6b674ffe914684e4a09f7dc043c, type: 3}
+  - {fileID: 4900000, guid: 30c8894f47a58384fa628d732d700471, type: 3}
+  - {fileID: 4900000, guid: 0d980f13516ceac44af2a8eda421622d, type: 3}
+  - {fileID: 4900000, guid: ba140584bb031984990721fd0f4c9dcb, type: 3}
+  - {fileID: 4900000, guid: 16efe24a312472c438e11a9e11872144, type: 3}
+  - {fileID: 4900000, guid: 70506ca35b3912344a65cc579967cf93, type: 3}
+  - {fileID: 4900000, guid: 31877ea7db8ab4b42b743412f671b7c5, type: 3}
+  - {fileID: 4900000, guid: a7589b947f6fe434e991dbc52f46518d, type: 3}
+  - {fileID: 4900000, guid: 6b11a77c10e90394891e245bc0940deb, type: 3}
+  - {fileID: 4900000, guid: 86b99a3cab2700c4c848150ccbea0fe1, type: 3}
+  - {fileID: 4900000, guid: 11ff6b041c0e2b244b0551484664b41e, type: 3}
+  data_pointTextFiles: []
+  singlePoint: {fileID: 493826117017410617, guid: 95cda78e280b1a2438bbe00353c6de8e, type: 3}
+  points_per_z_file: 

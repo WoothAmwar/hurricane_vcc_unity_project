@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d66653e3bc59fe439a11263f2610a24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214936
+  packageName: VRTK v4 Tilia Package Importer
+  packageVersion: 1.3
+  assetPath: Assets/VRTK.Tilia.Package.Importer/Editor/PackageImporter.cs
+  uploadId: 494518
