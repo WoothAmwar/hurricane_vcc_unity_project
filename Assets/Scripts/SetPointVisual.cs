@@ -280,7 +280,8 @@ public class SetPointVisual : MonoBehaviour
         {
             PointData currentData = GetCurrentPointData();
             tmp.color = ApplyColor(var_names[dataFileIdx]);
-            tmp.text = FormatScientific(currentData.rawValue, 3);
+            // tmp.text = FormatScientific(currentData.clampedValue, 2);
+            tmp.text = System.MathF.Round(currentData.clampedValue, 2).ToString();
             
             RectTransform childRect = childObject.GetComponentInChildren<RectTransform>();
             if (childRect != null)
